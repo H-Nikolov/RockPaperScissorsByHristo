@@ -9,5 +9,13 @@ The game is built entirely in **Python**, using the `random` library to generate
 ## Source Code Link
 You can find the source code here: [rock_paper_scissors.py](rock_paper_scissors.py)
 
+## Input and Output
+The player enters one of the following options:
+* `rock` or `r`
+* `paper` or `p`
+* `scissors` or `s`
+
+The computer chooses a random option, then reveals the winner.
+
 ## Screenshots
 *Add your screenshots here later if needed!*
